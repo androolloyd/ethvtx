@@ -4,7 +4,7 @@
   Author: mortimr
   -->
 <div align="center" >
-<img width="40%" src="./imgs/logo.png" style="margin-bottom: 20px;">
+<img width="40%" src="https://github.com/Horyus/ethvtx/raw/develop/imgs/logo.png" style="margin-bottom: 20px;">
 <h4>Ethereum-Ready & Framework-Agnostic Redux Store Configuration</h4>
 </div>
 
